@@ -1,5 +1,13 @@
 # 🛒 Tienda en Consola en Kotlin
 
+## Integrantes
+
+- Ronald Vladimir Leon Marroquin
+- Rene Alexander Hernanedez Soriano
+- Manuel Antonio Bolaños Marcía
+- Christopher Alberto Muñoz Reyes 
+- Cristian Alberto Muñoz Reyes
+
 Este es un proyecto simple de consola hecho en **Kotlin**, que simula una tienda en línea. Permite a los usuarios ver productos disponibles, agregarlos al carrito, eliminarlos, ver el total y finalizar la compra con una factura.
 
 ## 🚀 Funcionalidades
@@ -24,3 +32,5 @@ Para ejecutar este proyecto, necesitas tener instalado Kotlin. Puedes compilar y
 ```bash
 kotlinc Main.kt -include-runtime -d Tienda.jar
 java -jar Tienda.jar
+
+#
