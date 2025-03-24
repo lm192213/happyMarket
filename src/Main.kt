@@ -5,7 +5,19 @@ fun main() {
     val productosDisponibles = mutableListOf(
         Producto("Laptop", 800.0, 5),
         Producto("Mouse", 20.0, 10),
-        Producto("Teclado", 30.0, 8)
+        Producto("Teclado", 30.0, 8),
+        Producto("Monitor", 150.0, 7),
+        Producto("Impresora", 120.0, 4),
+        Producto("Disco Duro Externo", 80.0, 6),
+        Producto("Memoria USB", 15.0, 20),
+        Producto("Tarjeta Gráfica", 300.0, 3),
+        Producto("Procesador", 250.0, 5),
+        Producto("Router", 60.0, 9),
+        Producto("Altavoces", 50.0, 12),
+        Producto("Webcam", 40.0, 8),
+        Producto("Micrófono", 35.0, 10),
+        Producto("Silla Gamer", 200.0, 4),
+        Producto("Tableta Gráfica", 100.0, 6)
     )
 
     // Instancia de la clase Carrito para manejar los productos seleccionados por el usuario.
