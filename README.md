@@ -1,12 +1,19 @@
+## 📹 Video YT
+
+Puedes ver una demostración del proyecto en el siguiente enlace:
+
+[🔗 Ver en YouTube](https://youtu.be/kfCMkreENV8)
+
+
 # 🛒 Tienda en Consola en Kotlin
 
 ## Integrantes
 
-- Ronald Vladimir Leon Marroquin
-- Rene Alexander Hernanedez Soriano
-- Manuel Antonio Bolaños Marcía
-- Christopher Alberto Muñoz Reyes 
-- Cristian Alberto Muñoz Reyes
+- Ronald Vladimir Leon Marroquin      LM192213
+- Rene Alexander Hernanedez Soriano   HS191498
+- Manuel Antonio Bolaños Marcía       BM192191
+- Christopher Alberto Muñoz Reyes     MR202832
+- Cristian Alberto Muñoz Reyes        MR211303
 
 Este es un proyecto simple de consola hecho en **Kotlin**, que simula una tienda en línea. Permite a los usuarios ver productos disponibles, agregarlos al carrito, eliminarlos, ver el total y finalizar la compra con una factura.
 
